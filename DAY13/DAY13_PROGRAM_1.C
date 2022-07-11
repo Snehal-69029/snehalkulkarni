@@ -14,7 +14,7 @@ step 3:Check the if condition, if condition[<0x05 || >0xf0] is true print the se
 step 4:Write another if condition for printing the sensor non voice values.If the condition[<0x05 && >0xf0] is true print the sensor non voice values.
 step 5:Assign another 2D array for printing the sensor non voice values.*/
 
-PROGRAM:-  
+  
 
 #include<stdio.h>
 int main()
